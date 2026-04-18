@@ -1,0 +1,10 @@
+:HL["/pekan-it/_next/static/chunks/0v3xs~q_-8d.l.css","style"]
+:HL["/pekan-it/images/segitiga.png","image"]
+:HL["/pekan-it/images/Kiri.png","image"]
+:HL["/pekan-it/images/Kanan.png","image"]
+:HL["/pekan-it/images/LOGO.png","image"]
+:HL["/pekan-it/images/Crown.png","image"]
+:HL["/pekan-it/images/left.png","image"]
+:HL["/pekan-it/images/guidebook-cover.png","image"]
+:HL["/pekan-it/images/img-himtika.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"detail-semantik","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"fSVb9vKN2HbJzXN1GkB3_"}
