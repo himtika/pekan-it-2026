@@ -1,5 +1,5 @@
-:HL["/pekan-it/_next/static/chunks/0dkju0pwu3qfq.css","style"]
+:HL["/pekan-it/_next/static/chunks/05ygtksgva972.css","style"]
 :HL["/pekan-it/images/night_bg.webp","image"]
 :HL["/pekan-it/images/close city (1).webp","image"]
 :HL["/pekan-it/images/kota-mksh.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pendaftaran-ditutup","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"0TgnVvbp8LUynm53Cv6qc"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pendaftaran-ditutup","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"oVTVuEjEow4UxSQ-eCkTj"}
